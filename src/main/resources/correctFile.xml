@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <user>
+ <firstName> "first name" </firstName>
+ <lastName> "last name" </lastName>
+ <age> "40" </age>
+ <email> "mail" </email>
+ <technology> "java" </technology>
+  <user/>
